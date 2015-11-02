@@ -1,0 +1,11 @@
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+*.tmp*
+*.orig
+*.cache
+*.log
+
+_site/
