@@ -7,5 +7,6 @@ Thumbs.db
 *.orig
 *.cache
 *.log
+box/*
 
 _site/
